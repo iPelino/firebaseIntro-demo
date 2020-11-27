@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FirebaseIntro</string>
+    <string name="scientiae_et_conscientiae">Scientiae et conscientiae</string>
+    <string name="student_logo">student logo</string>
+    <string name="email_address">Email Address</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string-array name="department">
+        <item>IT</item>
+        <item>IS</item>
+        <item>CS</item>
+        <item>CSE</item>
+    </string-array>
+</resources>

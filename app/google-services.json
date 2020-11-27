@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "874753360504",
+    "firebase_url": "https://mad-firebase-demo.firebaseio.com",
+    "project_id": "mad-firebase-demo",
+    "storage_bucket": "mad-firebase-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874753360504:android:2e507af2d963ab392ee38d",
+        "android_client_info": {
+          "package_name": "com.example.firebaseintro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874753360504-o8je9g65jhi83stij1ved0k8e9o54m7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjlJaPaE6wgKa_aBG0Q_gUfbAcYvvfhpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874753360504-o8je9g65jhi83stij1ved0k8e9o54m7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
